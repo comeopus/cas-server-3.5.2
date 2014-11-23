@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: xml-resolver:xml-resolver:1.2-JASIG_PATCH">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/xml-resolver/xml-resolver/1.2-JASIG_PATCH/xml-resolver-1.2-JASIG_PATCH.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/xml-resolver/xml-resolver/1.2-JASIG_PATCH/xml-resolver-1.2-JASIG_PATCH-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/xml-resolver/xml-resolver/1.2-JASIG_PATCH/xml-resolver-1.2-JASIG_PATCH-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
